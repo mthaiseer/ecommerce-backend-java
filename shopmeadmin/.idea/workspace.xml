@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75b5b893-f19c-41e2-8cce-ca01b3ca078e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2HgGnZDPycKtw9D3VXrLTnYe06d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/shopme/controller" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.shopme.controller" />
+      <recent name="com.shopme.exception" />
+      <recent name="com.shopme.request" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.shopme.service" />
+      <recent name="com.shopme.controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ShopmeadminApplication">
+    <configuration name="ShopmeadminApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shopme.ShopmeadminApplication" />
+      <module name="shopmeadmin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shopme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRepositoryTest.testFilteringData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shopmeadmin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shopme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shopme" />
+      <option name="MAIN_CLASS_NAME" value="com.shopme.UserRepositoryTest" />
+      <option name="METHOD_NAME" value="testFilteringData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRepositoryTest.testPagingData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shopmeadmin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shopme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shopme" />
+      <option name="MAIN_CLASS_NAME" value="com.shopme.UserRepositoryTest" />
+      <option name="METHOD_NAME" value="testPagingData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRepositoryTest.testSortingData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shopmeadmin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shopme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shopme" />
+      <option name="MAIN_CLASS_NAME" value="com.shopme.UserRepositoryTest" />
+      <option name="METHOD_NAME" value="testSortingData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRepositoryTest.testUpdateUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shopmeadmin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shopme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shopme" />
+      <option name="MAIN_CLASS_NAME" value="com.shopme.UserRepositoryTest" />
+      <option name="METHOD_NAME" value="testUpdateUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ShopmeadminApplication" />
+        <item itemvalue="JUnit.UserRepositoryTest.testFilteringData" />
+        <item itemvalue="JUnit.UserRepositoryTest.testSortingData" />
+        <item itemvalue="JUnit.UserRepositoryTest.testPagingData" />
+        <item itemvalue="JUnit.UserRepositoryTest.testUpdateUser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75b5b893-f19c-41e2-8cce-ca01b3ca078e" name="Default Changelist" comment="" />
+      <created>1668699480255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668699480255</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2172" y="365" key="#Auto_Import" timestamp="1668789817573">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2172" y="365" key="#Auto_Import/0.0.3440.1400@0.0.3440.1400" timestamp="1668789817573" />
+    <state x="665" y="422" key="#com.intellij.ide.util.MemberChooser" timestamp="1668952276158">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="665" y="422" key="#com.intellij.ide.util.MemberChooser/0.0.3440.1400@0.0.3440.1400" timestamp="1668952276158" />
+    <state x="2099" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1668842299429">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2099" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1668842299429" />
+    <state x="2335" y="411" key="#xdebugger.evaluate" timestamp="1669134072437">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2335" y="411" key="#xdebugger.evaluate/0.0.3440.1400@0.0.3440.1400" timestamp="1669134072437" />
+    <state width="536" height="466" key="DebuggerActiveHint" timestamp="1669134082006">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="536" height="466" key="DebuggerActiveHint/0.0.3440.1400@0.0.3440.1400" timestamp="1669134082006" />
+    <state x="631" y="445" key="FileChooserDialogImpl" timestamp="1671459672213">
+      <screen x="0" y="0" width="3440" height="1392" />
+    </state>
+    <state x="631" y="445" key="FileChooserDialogImpl/0.0.3440.1392@0.0.3440.1392" timestamp="1671459672213" />
+    <state x="631" y="448" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1668702172284" />
+    <state width="1674" height="383" key="GridCell.Tab.0.bottom" timestamp="1671459676764">
+      <screen x="0" y="0" width="3440" height="1392" />
+    </state>
+    <state width="1674" height="383" key="GridCell.Tab.0.bottom/0.0.3440.1392@0.0.3440.1392" timestamp="1671459676764" />
+    <state width="1674" height="388" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1669616356016" />
+    <state width="1674" height="383" key="GridCell.Tab.0.center" timestamp="1671459676764">
+      <screen x="0" y="0" width="3440" height="1392" />
+    </state>
+    <state width="1674" height="383" key="GridCell.Tab.0.center/0.0.3440.1392@0.0.3440.1392" timestamp="1671459676764" />
+    <state width="1674" height="388" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1669616356016" />
+    <state width="1674" height="383" key="GridCell.Tab.0.left" timestamp="1671459676764">
+      <screen x="0" y="0" width="3440" height="1392" />
+    </state>
+    <state width="1674" height="383" key="GridCell.Tab.0.left/0.0.3440.1392@0.0.3440.1392" timestamp="1671459676764" />
+    <state width="1674" height="388" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1669616356016" />
+    <state width="1674" height="383" key="GridCell.Tab.0.right" timestamp="1671459676764">
+      <screen x="0" y="0" width="3440" height="1392" />
+    </state>
+    <state width="1674" height="383" key="GridCell.Tab.0.right/0.0.3440.1392@0.0.3440.1392" timestamp="1671459676764" />
+    <state width="1674" height="388" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1669616356016" />
+    <state width="1674" height="490" key="GridCell.Tab.1.bottom" timestamp="1669139873505">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1674" height="490" key="GridCell.Tab.1.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1669139873505" />
+    <state width="1674" height="490" key="GridCell.Tab.1.center" timestamp="1669139873505">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1674" height="490" key="GridCell.Tab.1.center/0.0.3440.1400@0.0.3440.1400" timestamp="1669139873505" />
+    <state width="1674" height="490" key="GridCell.Tab.1.left" timestamp="1669139873505">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1674" height="490" key="GridCell.Tab.1.left/0.0.3440.1400@0.0.3440.1400" timestamp="1669139873505" />
+    <state width="1674" height="490" key="GridCell.Tab.1.right" timestamp="1669139873505">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1674" height="490" key="GridCell.Tab.1.right/0.0.3440.1400@0.0.3440.1400" timestamp="1669139873505" />
+    <state x="2211" y="401" key="NewModule_or_Project.wizard" timestamp="1671459675616">
+      <screen x="0" y="0" width="3440" height="1392" />
+    </state>
+    <state x="2211" y="401" key="NewModule_or_Project.wizard/0.0.3440.1392@0.0.3440.1392" timestamp="1671459675616" />
+    <state x="1990" y="255" key="SettingsEditor" timestamp="1668781870596">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1990" y="255" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1668781870596" />
+    <state x="2364" y="484" key="chooseDestDirectoryDialog" timestamp="1668789643949">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2364" y="484" key="chooseDestDirectoryDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1668789643949" />
+    <state x="523" y="320" key="search.everywhere.popup" timestamp="1668702425786">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="523" y="320" key="search.everywhere.popup/0.0.3440.1400@0.0.3440.1400" timestamp="1668702425786" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/shopme/UserRepositoryTest.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/shopme/UserRepositoryTest.java</url>
+          <line>109</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/shopme/service/UserService.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/shopme/service/UserService.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/shopme/UserRepositoryTest.java</url>
+          <line>121</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/shopme/security/ShopmeUserDetails.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/shopme/security/WebSecurityConfig.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+2022-11-28 11:49:16.999  INFO 1452 --- [restartedMain] com.shopme.ShopmeadminApplication        : Starting ShopmeadminApplication using Java 11.0.6 on THAISEER with PID 1452 (D:\learning_ws\ecommerce\shopmeadmin\target\classes started by moham in D:\learning_ws\ecommerce\shopmeadmin)
+2022-11-28 11:49:17.000 DEBUG 1452 --- [restartedMain] com.shopme.ShopmeadminApplication        : Running with Spring Boot v2.7.5, Spring v5.3.23
+2022-11-28 11:49:17.000  INFO 1452 --- [restartedMain] com.shopme.ShopmeadminApplication        : No active profile set, falling back to 1 default profile: "default"
+2022-11-28 11:49:20.452  WARN 1452 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-11-28 11:49:20.946  INFO 1452 --- [restartedMain] com.shopme.ShopmeadminApplication        : Started ShopmeadminApplication in 4.372 seconds (JVM running for 4.909)
